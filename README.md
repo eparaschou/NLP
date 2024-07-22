@@ -23,14 +23,8 @@ I identified and classified named entities in the text using spaCy and NLTK. Spa
 ## Results
 The best method for similarity check is: Enhanced Preprocessed TF-IDF + Cosine Similarity with a result of 0.9802
 
-+--------------------------------------------------+--------+
-|                      Method                      | Result |
-+--------------------------------------------------+--------+
-| Enhanced Preprocessed TF-IDF + Cosine Similarity | 0.9802 |
-|                Jaccard Similarity                | 0.4956 |
-|    Bag of Words + Cosine Similarity (Radians)    | 0.1789 |
-|           Doc2Vec + Cosine Similarity            | 0.7845 |
-+--------------------------------------------------+--------+
+<img width="363" alt="Screenshot 2024-07-22 at 6 26 43 PM" src="https://github.com/user-attachments/assets/8987b4aa-594a-457e-aa8e-9f3e1813c1cf">
+
 
 <img width="1103" alt="Screenshot 2024-07-22 at 6 18 19 PM" src="https://github.com/user-attachments/assets/3eaa09d2-c999-43f9-b33d-ed30857883f3">
 
